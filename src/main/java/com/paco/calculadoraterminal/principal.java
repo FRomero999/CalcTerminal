@@ -10,12 +10,12 @@ import java.util.Scanner;
 /**
  *
  * @author paco
+ * @version 1.0
+ * 
  */
 public class principal {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         
         Calculadora calc = new Calculadora(0);
