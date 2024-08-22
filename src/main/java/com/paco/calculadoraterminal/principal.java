@@ -10,7 +10,7 @@ import java.util.Scanner;
 /**
  *
  * @author paco
- * @version 1.0
+ * @version 2.0
  * 
  */
 public class principal {
